@@ -1,0 +1,15 @@
+body,h1,h2,h2,h4,h5,h6,p,div,ul,li,ol,button,img,b{margin: 0;padding: 0}
+input{margin-top: 10px;}
+li{list-style: none;margin-left: 45px}
+button,input{border: none}
+a{text-decoration: none;color: #FFFFFF;display: block}
+img{border: none}
+b{margin: 10px;font-size: 18px;}
+
+/*设置背景样式*/
+img{position: relative;overflow: hidden;display: block;width:100%;position: center}
+
+.pos{position: absolute;top: 0px;margin: 15px 0 0 15px;padding: 10px}
+.pos p,h2{color: #FFFFFF;height: 45px;line-height: 45px}
+
+
